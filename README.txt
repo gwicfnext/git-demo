@@ -2,7 +2,6 @@
 
 This is the first file in this repo.
 
-##Ipsum Below
+## Website Contents
 
-Gibberish text for the demo
-Enjoy the gibberish
+1. Website HTML
